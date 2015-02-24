@@ -1,0 +1,24 @@
+*new projet
+
+*import:
+_Character Controller
+_Projector
+_Skyboxes
+_Tree Creator
+_Terrain Asset
+
+*new terrain
+
+*Place First Person Controller
+
+*set ambient light
+
+*Edit terrain
+
+*Edit terrain texture
+
+*Add tree and grass
+
+*First render
+
+*Now add a light !
